@@ -7,19 +7,3 @@
   در فایل index.php #user_host یوز هاست خودتون قرار بدید 
   در فایل index.php #pass_host پسورد هاست خودتون قرار بدید
  
-
-    <a href="https://t.me/Ayhan_Mohammadi">
-
-        Channel
-
-    </a>
-
-    •
-
-    <a href="https://t.me/PXLRW_GP">
-
-        Chat
-
-    </a>
-
-</p>
